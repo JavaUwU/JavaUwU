@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JavaUwU
-- 👀 I’m interested in Java, Python, Kotlin and Android,  web and mobile development.
+- 👀 I’m interested in Java, Python, Kotlin , Android,  web and mobile development.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on android projects
 - 📫 You can reach me on twitter @CodeJavaUwU
